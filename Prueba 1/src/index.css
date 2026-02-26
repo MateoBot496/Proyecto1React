@@ -1,0 +1,28 @@
+:root {
+  
+}
+.main{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tareaCard{
+  border: 1px solid black;
+  background-color: aliceblue;
+  border-radius: 10px;
+  box-shadow: 10px 10px 4px;
+  padding: 2vh;
+  margin: 2vh;
+}
+
+.formulario{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+  background-color: aliceblue;
+  padding: 10vh;
+}
